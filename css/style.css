@@ -1,0 +1,59 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.topo{
+    width:100%;
+    height:150px;
+    background-color: rgb(80,80,80);
+}
+
+.topo h1{
+    margin-left: 50px;
+    padding:40px;
+    color:white;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.menu{
+    width:100%;
+    height:30px;
+    background-color: rgb(100,100,100);
+    font-size: 30px;
+    font-weight: bold;
+    
+}
+
+.menu ul li{
+    display:inline-block;
+    color:white;
+    margin-left: 30px;
+}
+
+.banner{
+    width:20%;
+    height:600px;
+    float:left;
+    background-color:rgb(110,110,110);
+
+}
+
+.assunto{
+    width:80%;
+    height:600px;
+    float:left; 
+    background-color: rgb(150, 150, 150);
+
+
+}
+
+.rodape{
+    width:100%;
+    height:150px;
+    background-color: rgb(80,80,80);
+    float:left; 
+    
+}
